@@ -1,7 +1,5 @@
 # Haskell-2048-TheYorsh (Español)
 
-Prácticas para el programa "Maple" con los algoritmos de la evaluación
-
 Se presenta el juego 2048 programado en Haskell, haciendo uso de la 
 interfaz IO y otras implementaciones que mejoran la jugabilidad, como 
 la opción de tener diferentes diseños e instrucciones.
