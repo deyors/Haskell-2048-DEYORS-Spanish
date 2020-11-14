@@ -1,4 +1,4 @@
----------------------HASKELL-2048-THEYORSH-ENERO 2020---------------------
+---------------------HASKELL-2048-DEYORS-ENERO 2020---------------------
 --------------------------------JUEGO 2048--------------------------------
 
 {-Instrucciones: Utiliza las teclas WASD para mover los números de tu 
@@ -441,7 +441,7 @@ funcion filtro para redirigir hacia las funciones auxiliares-}
 main :: IO ()
 main = do
      putStrLn "Bienvenido a 2048."
-     putStrLn "Programado por TheYorsh."
+     putStrLn "Programado por DEYORS."
      putStrLn "Enero de 2020."
      putStrLn "Pulsa S para jugar"
      putStrLn "Pulsa I para las instrucciones"
