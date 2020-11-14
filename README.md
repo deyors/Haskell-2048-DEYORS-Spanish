@@ -1,4 +1,4 @@
-# Haskell-2048-TheYorsh (Español)
+# Haskell-2048-DEYORS (Español)
 
 Se presenta el juego 2048 programado en Haskell, haciendo uso de la 
 interfaz IO y otras implementaciones que mejoran la jugabilidad, como 
