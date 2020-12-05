@@ -22,8 +22,7 @@ recomendable ejecutar el juego en WinHugs para no tener problemas.
 el comando :main.
 4. Seguir las instrucciones. 
 
-Esta es una práctica para la asignatura de Programación Declarativa de
-la Universidad Complutense de Madrid y ha sido compartida con el afán
+Esta es una práctica que ha sido compartida con el afán
 de ampliar el conocimiento sobre la programación funcional y ver un
 ejemplo aplicado sobre lo que puede llegar a conseguir. No se pretende 
 de ninguna manera promover la copia literal de los códigos para aprobar
